@@ -1,5 +1,7 @@
 Link to this problem is: https://www.codechef.com/problems/COVID19
 
+To view the pdf file to which I have uploaded on repository, You can just donwload that directly.
+
 <b>Simplifying the Problem statement</b>
 As you can read the question, If i simplify their statement it simply means, You have to give two values output one value should indicate the minimum and maximum number of people who will get infected by coronavirus if a person is infected. So two find these two vaues you can consider any guy who will get infected which gives us these numbers. Let me explain this by a test case:
 
